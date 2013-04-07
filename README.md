@@ -5,12 +5,11 @@ BathRoom
 2. when I turn the left faucet cold water should come.
 
 2:
-
 1. when I turn the right faucet, hot water should come from tap.
 2. when I turn the left faucet cold water should come from tap.
 
 3.
-  1. when I turn the right faucet and shower faucet is on, hot water should come from shower.
+1. when I turn the right faucet and shower faucet is on, hot water should come from shower.
 2. when I turn the left faucet and shower faucet is on, cold water should come from shower.
 
 4.
